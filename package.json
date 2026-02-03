@@ -2,9 +2,9 @@
   "name": "mbm",
   "version": "1.0.0",
   "description": "",
-  "main": "./build/main.js",
+  "main": "./dist/main.js",
   "scripts": {
-    "start": "clear && npm run ./build/main.js",
+    "start": "clear && npm run ./dist/main.js",
     "test": "clear && tsx ./src/main.ts"
   },
   "keywords": [],
